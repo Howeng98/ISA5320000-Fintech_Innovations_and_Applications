@@ -13,7 +13,7 @@ Final:
   - [BNB](https://finance.yahoo.com/quote/BNB-USD?p=BNB-USD&.tsrc=fin-srch)
 
 ## Trading Platform
-[Cryptoarsernal](https://www.crypto-arsenal.io/)
+  - [Cryptoarsernal](https://www.crypto-arsenal.io/)
 
 ## Trading strategy
 - TD9/13 (selected as main quantitative trading strategy in Final)
